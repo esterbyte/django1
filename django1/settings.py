@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-um_u93^u!eu$#@xqm$r9vkzxifxj5cio^40h=u&bi-5kwv8t%6
 # DEBUG False = production mode, using staticfiles
 DEBUG = False
 
-ALLOWED_HOSTS = ['outro.herokuapp.com/']
+ALLOWED_HOSTS = ['django1-ew.herokuapp.com/']
 
 
 # Application definition
